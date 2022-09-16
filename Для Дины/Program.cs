@@ -11,7 +11,7 @@ namespace For_Dina
     {
         static void Main(string[] args)
         {
-            /*
+            
             Console.WriteLine("Задание 1. Число е");
             Console.WriteLine();
             Console.WriteLine("e = 2.7");
@@ -507,7 +507,7 @@ namespace For_Dina
             {
                 Console.WriteLine("Кредит не получен");
             }
-            */
+            
             Console.WriteLine();
 
             Console.WriteLine("Задание 34. Имя");
